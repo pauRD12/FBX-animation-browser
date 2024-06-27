@@ -1,5 +1,5 @@
 # FBX Animation Browser
-Houdini Shelf tool for visually browsing FBX animations
+Houdini Shelf tool for visually browsing and import FBX animations
 - Demo Video: https://www.linkedin.com/feed/update/urn:li:activity:7201122535910838273/
 ### Installation:
 - You need to have `FFmpeg` installed: https://ffmpeg.org/download.html
